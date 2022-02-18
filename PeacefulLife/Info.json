@@ -1,0 +1,8 @@
+﻿{
+  "Id": "PeacefulLife",
+  "DisplayName": "太吾想过平静的生活",
+  "Author": "Koketsu",
+  "Version": "1.0.2",
+  "AssemblyName": "PeacefulLife.dll",
+  "EntryMethod": "PeacefulLife.Main.Load"
+}
